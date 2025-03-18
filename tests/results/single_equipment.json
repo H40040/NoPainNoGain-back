@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "equipment": {
+    "_id": "67d1b468ab279dc29b1fea30",
+    "name": "Anilhas",
+    "description": "Pesos para barras e máquinas",
+    "category": "peso livre",
+    "muscleGroups": [
+      "Peito",
+      "Costas",
+      "Ombros",
+      "Bíceps",
+      "Tríceps",
+      "Quadríceps",
+      "Glúteos"
+    ],
+    "difficulty": "intermediário",
+    "alternatives": [],
+    "isActive": true,
+    "createdAt": "2025-03-12T16:20:56.390Z",
+    "updatedAt": "2025-03-12T16:20:56.390Z",
+    "__v": 0
+  }
+}

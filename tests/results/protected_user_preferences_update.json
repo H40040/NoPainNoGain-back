@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Preferências atualizadas com sucesso",
+  "userPreferences": {
+    "_id": "67d1c477001761633c65fda3",
+    "userId": "67d1c461536fcc0516abecbc",
+    "workoutDays": [
+      "segunda",
+      "quarta",
+      "sexta"
+    ],
+    "workoutDuration": 60,
+    "preferredExercises": [
+      "supino",
+      "agachamento"
+    ],
+    "avoidedExercises": [],
+    "createdAt": "2025-03-12T17:29:27.524Z",
+    "updatedAt": "2025-03-12T17:29:27.525Z",
+    "__v": 0
+  }
+}

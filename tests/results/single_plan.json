@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "plan": {
+    "_id": "67d1b468ab279dc29b1fea3e",
+    "name": "Plano Básico",
+    "description": "Acesso básico ao aplicativo com recursos limitados",
+    "price": 29.9,
+    "currency": "BRL",
+    "interval": "mensal",
+    "features": [
+      "Acesso a treinos pré-definidos",
+      "Registro de treinos realizados",
+      "Estatísticas básicas"
+    ],
+    "isActive": true,
+    "maxWorkouts": 5,
+    "maxAIGenerations": 1,
+    "trialDays": 7,
+    "createdAt": "2025-03-12T16:20:56.403Z",
+    "updatedAt": "2025-03-12T16:20:56.403Z",
+    "__v": 0
+  }
+}

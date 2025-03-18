@@ -1,0 +1,281 @@
+{
+  "success": true,
+  "count": 15,
+  "equipment": [
+    {
+      "_id": "67d1b468ab279dc29b1fea30",
+      "name": "Anilhas",
+      "description": "Pesos para barras e máquinas",
+      "category": "peso livre",
+      "muscleGroups": [
+        "Peito",
+        "Costas",
+        "Ombros",
+        "Bíceps",
+        "Tríceps",
+        "Quadríceps",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.390Z",
+      "updatedAt": "2025-03-12T16:20:56.390Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2c",
+      "name": "Banco Declinado",
+      "description": "Banco declinado para exercícios variados",
+      "category": "acessório",
+      "muscleGroups": [
+        "Peito",
+        "Abdômen"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2b",
+      "name": "Banco Inclinado",
+      "description": "Banco inclinado para exercícios variados",
+      "category": "acessório",
+      "muscleGroups": [
+        "Peito",
+        "Ombros",
+        "Tríceps"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2a",
+      "name": "Banco Reto",
+      "description": "Banco para exercícios variados",
+      "category": "acessório",
+      "muscleGroups": [
+        "Peito",
+        "Ombros",
+        "Tríceps",
+        "Abdômen"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea23",
+      "name": "Barra",
+      "description": "Barra para exercícios com pesos",
+      "category": "peso livre",
+      "muscleGroups": [
+        "Peito",
+        "Costas",
+        "Ombros",
+        "Bíceps",
+        "Tríceps",
+        "Quadríceps",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea27",
+      "name": "Bicicleta Ergométrica",
+      "description": "Equipamento para exercícios cardiovasculares",
+      "category": "cardio",
+      "muscleGroups": [
+        "Quadríceps",
+        "Isquiotibiais",
+        "Panturrilhas"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2e",
+      "name": "Bola Suíça",
+      "description": "Bola para exercícios de estabilidade",
+      "category": "acessório",
+      "muscleGroups": [
+        "Abdômen",
+        "Lombar",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2d",
+      "name": "Corda",
+      "description": "Acessório para exercícios de tríceps",
+      "category": "acessório",
+      "muscleGroups": [
+        "Tríceps"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea28",
+      "name": "Elíptico",
+      "description": "Equipamento para exercícios cardiovasculares",
+      "category": "cardio",
+      "muscleGroups": [
+        "Quadríceps",
+        "Isquiotibiais",
+        "Panturrilhas",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea26",
+      "name": "Esteira",
+      "description": "Equipamento para exercícios cardiovasculares",
+      "category": "cardio",
+      "muscleGroups": [
+        "Quadríceps",
+        "Isquiotibiais",
+        "Panturrilhas"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea22",
+      "name": "Halteres",
+      "description": "Pesos livres para exercícios variados",
+      "category": "peso livre",
+      "muscleGroups": [
+        "Peito",
+        "Costas",
+        "Ombros",
+        "Bíceps",
+        "Tríceps",
+        "Quadríceps",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.387Z",
+      "updatedAt": "2025-03-12T16:20:56.387Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea2f",
+      "name": "Kettlebell",
+      "description": "Peso com alça para exercícios funcionais",
+      "category": "peso livre",
+      "muscleGroups": [
+        "Costas",
+        "Ombros",
+        "Quadríceps",
+        "Glúteos",
+        "Abdômen"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.390Z",
+      "updatedAt": "2025-03-12T16:20:56.390Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea25",
+      "name": "Leg Press",
+      "description": "Máquina para exercícios de pernas",
+      "category": "máquina",
+      "muscleGroups": [
+        "Quadríceps",
+        "Glúteos",
+        "Isquiotibiais"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea24",
+      "name": "Máquina Smith",
+      "description": "Máquina com barra guiada",
+      "category": "máquina",
+      "muscleGroups": [
+        "Peito",
+        "Costas",
+        "Ombros",
+        "Quadríceps",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.388Z",
+      "updatedAt": "2025-03-12T16:20:56.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea29",
+      "name": "TRX",
+      "description": "Fitas de suspensão para exercícios com o peso corporal",
+      "category": "acessório",
+      "muscleGroups": [
+        "Peito",
+        "Costas",
+        "Ombros",
+        "Bíceps",
+        "Tríceps",
+        "Abdômen",
+        "Quadríceps",
+        "Glúteos"
+      ],
+      "difficulty": "intermediário",
+      "alternatives": [],
+      "isActive": true,
+      "createdAt": "2025-03-12T16:20:56.389Z",
+      "updatedAt": "2025-03-12T16:20:56.389Z",
+      "__v": 0
+    }
+  ]
+}

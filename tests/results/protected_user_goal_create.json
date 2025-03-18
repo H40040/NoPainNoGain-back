@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "message": "Meta criada com sucesso",
+  "goal": {
+    "userId": "67d1c461536fcc0516abecbc",
+    "title": "Perder 5kg",
+    "description": "Objetivo de perda de peso para o verão",
+    "type": "peso",
+    "targetValue": 70,
+    "currentValue": 75,
+    "startDate": "2025-03-12T17:39:57.254Z",
+    "targetDate": "2025-06-10T17:39:57.251Z",
+    "status": "ativa",
+    "progress": 0,
+    "frequency": "semanal",
+    "reminderEnabled": true,
+    "reminderDays": [
+      "segunda",
+      "quarta",
+      "sexta"
+    ],
+    "_id": "67d1c6ed001761633c65fdc6",
+    "unit": "kg",
+    "progressHistory": [],
+    "createdAt": "2025-03-12T17:39:57.255Z",
+    "updatedAt": "2025-03-12T17:39:57.255Z",
+    "__v": 0
+  }
+}

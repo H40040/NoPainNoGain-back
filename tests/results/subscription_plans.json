@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "count": 3,
+  "plans": [
+    {
+      "_id": "67d1b468ab279dc29b1fea3e",
+      "name": "Plano Básico",
+      "description": "Acesso básico ao aplicativo com recursos limitados",
+      "price": 29.9,
+      "currency": "BRL",
+      "interval": "mensal",
+      "features": [
+        "Acesso a treinos pré-definidos",
+        "Registro de treinos realizados",
+        "Estatísticas básicas"
+      ],
+      "isActive": true,
+      "maxWorkouts": 5,
+      "maxAIGenerations": 1,
+      "trialDays": 7,
+      "createdAt": "2025-03-12T16:20:56.403Z",
+      "updatedAt": "2025-03-12T16:20:56.403Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea3f",
+      "name": "Plano Premium",
+      "description": "Acesso completo a todos os recursos do aplicativo",
+      "price": 49.9,
+      "currency": "BRL",
+      "interval": "mensal",
+      "features": [
+        "Acesso a todos os treinos",
+        "Geração ilimitada de treinos com IA",
+        "Estatísticas avançadas",
+        "Suporte prioritário",
+        "Sem anúncios"
+      ],
+      "isActive": true,
+      "maxWorkouts": -1,
+      "maxAIGenerations": -1,
+      "trialDays": 14,
+      "createdAt": "2025-03-12T16:20:56.403Z",
+      "updatedAt": "2025-03-12T16:20:56.403Z",
+      "__v": 0
+    },
+    {
+      "_id": "67d1b468ab279dc29b1fea40",
+      "name": "Plano Anual",
+      "description": "Acesso completo com desconto para pagamento anual",
+      "price": 399.9,
+      "currency": "BRL",
+      "interval": "anual",
+      "features": [
+        "Todos os recursos do Plano Premium",
+        "Desconto de 33% em relação ao pagamento mensal",
+        "Consulta nutricional gratuita"
+      ],
+      "isActive": true,
+      "maxWorkouts": -1,
+      "maxAIGenerations": -1,
+      "trialDays": 30,
+      "createdAt": "2025-03-12T16:20:56.403Z",
+      "updatedAt": "2025-03-12T16:20:56.403Z",
+      "__v": 0
+    }
+  ]
+}
