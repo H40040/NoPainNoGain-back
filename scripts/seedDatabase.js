@@ -4,7 +4,7 @@ const bcrypt = require('bcryptjs');
 
 // Importar modelos
 const Admin = require('../models/adminModel');
-const Client = require('../models/clientModel');
+const User = require('../models/userModel');
 const Exercise = require('../models/exerciseModel');
 const Workout = require('../models/workoutModel');
 const MuscleGroup = require('../models/muscleGroupModel');
