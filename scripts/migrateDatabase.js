@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 
 // Importar modelos
-const Client = require('../models/clientModel');
+const User = require('../models/userModel');
 const UserPreferences = require('../models/userPreferencesModel');
 const UserStatistics = require('../models/userStatisticsModel');
 const MedicalInfo = require('../models/medicalInfoModel');
@@ -33,7 +33,7 @@ const migrateClientData = async () => {
     console.log('Iniciando migração de dados de clientes...');
     
     // Buscar todos os clientes
-    const clients = await Client.find({});
+    const clients = await  User.find({});
     console.log(`Encontrados ${clients.length} clientes para migração`);
     
     // Para cada cliente, criar registros nos novos modelos

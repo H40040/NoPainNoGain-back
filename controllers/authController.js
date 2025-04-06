@@ -18,7 +18,8 @@ exports.login = async (req, res) => {
     const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
 
     await User.findByIdAndUpdate(user._id, { lastLogin: new Date() });
-
+    // No backend (authController.js):
+console.log("JWT_SECRET:", process.env.JWT_SECRET);
     res.json({
       success: true,
       message: 'Login efetuado com sucesso!',

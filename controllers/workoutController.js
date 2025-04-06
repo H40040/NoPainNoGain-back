@@ -2,6 +2,8 @@
 const Workout = require('../models/workoutModel');
 const Exercise = require('../models/exerciseModel');
 const User = require('../models/userModel');
+const mongoose = require('mongoose');
+const logger = require('../config/logger');
 const axios = require('axios');
 //const { formatPromptData } = require('../../utils/promptUtils');
 
@@ -54,14 +56,51 @@ exports.createWorkout = async (req, res) => {
 // Get all workouts for a user
 exports.getUserWorkouts = async (req, res) => {
     try {
-        const userId = req.userId;
+        const userId = req.user._id;
+        
+        logger.debug('Fetching workouts for user', { userId });
+        
+        if (!mongoose.Types.ObjectId.isValid(userId)) {
+            return res.status(400).json({
+                success: false,
+                error: 'ID de usuário inválido'
+            });
+        }
+        
         const workouts = await Workout.find({ userId })
             .populate('exercises')
-            .sort({ createdAt: -1 });
+            .sort({ createdAt: -1 })
+            .maxTimeMS(5000);
+            
+        if (!workouts || workouts.length === 0) {
+            logger.info('No workouts found for user', { userId });
+            return res.status(404).json({
+                success: false,
+                error: 'Nenhum treino encontrado para este usuário',
+                suggestion: 'Crie seu primeiro treino para começar'
+            });
+        }
         
-        res.json({ success: true, workouts });
-    } catch (error) {
-        handleServerError(res, error);
+        logger.debug(`Found ${workouts.length} workouts for user`, { userId });
+        
+        res.status(200).json({
+            success: true,
+            count: workouts.length,
+            data: workouts
+        });
+        
+    } catch (err) {
+        logger.error('Error fetching workouts', {
+            error: err.message,
+            stack: err.stack,
+            userId: req.user?._id
+        });
+        
+        res.status(500).json({
+            success: false,
+            error: 'Erro ao buscar treinos',
+            details: process.env.NODE_ENV === 'development' ? err.message : undefined
+        });
     }
 };
 
@@ -345,7 +384,7 @@ exports.generateAIWorkout = async (req, res) => {
         }
 
         const data = req.body;
-        const dataPrompt = formatPromptData(data);
+        const dataPrompt = formatPrompt(data);
         const prompt = JSON.stringify(dataPrompt);
         const treinoGerado = await generateWorkout(prompt);
 
@@ -378,4 +417,3 @@ exports.generateAIWorkout = async (req, res) => {
         handleServerError(res, error);
     }
 };
-

@@ -32,4 +32,25 @@ router.get('/', (req, res) => {
     res.json({ success: true, message: "API funcionando corretamente!" });
 });
 
+// Add status route
+router.get('/status', async (req, res) => {
+  try {
+    const dbStatus = mongoose.connection.readyState;
+    const statusMap = {
+      0: 'disconnected',
+      1: 'connected',
+      2: 'connecting',
+      3: 'disconnecting'
+    };
+    
+    res.json({
+      dbStatus: statusMap[dbStatus],
+      dbVersion: mongoose.version,
+      uptime: process.uptime()
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 module.exports = router;
