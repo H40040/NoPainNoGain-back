@@ -82,7 +82,11 @@ exports.updateExercise = async (req, res) => {
                 error: 'Exercício não encontrado' 
             });
         }
-        
+        console.log('Recebendo atualização para exercício:', {
+            exerciseId: req.params.id,
+            updateData: req.body,
+            userId: req.user._id // Se disponível
+          });
         res.json({ 
             success: true, 
             message: 'Exercício atualizado com sucesso', 

@@ -236,3 +236,281 @@
 {"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T05:32:53.912Z","userId":"67f19f229bef531fc0f1e50c"}
 {"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T05:32:53.914Z","userId":"67f19f229bef531fc0f1e50c"}
 {"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T05:32:58.531Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:01:28.939Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:01:28.943Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:01:28.958Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:01:28.965Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:01:28.967Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:01:28.970Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:01:48.675Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:11:54.914Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:11:54.916Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:11:54.919Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:11:54.923Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:11:54.924Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:11:54.926Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:14:51.421Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:18:16.073Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:20:45.678Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:20:45.680Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:20:45.682Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:20:45.688Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:20:45.690Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:20:45.692Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:20:57.607Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:22:32.360Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:22:32.362Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:22:32.364Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:27:17.548Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:27:17.550Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:27:17.552Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:27:17.558Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:27:17.560Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:27:17.562Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:27:25.707Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:30:31.056Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:36:51.111Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:36:51.112Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:36:51.114Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:36:51.118Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:36:51.119Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:36:51.121Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:36:58.999Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:37:02.114Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:37:02.115Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:37:02.117Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:37:10.747Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:37:10.748Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:37:10.750Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:41:25.445Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:41:25.447Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:41:25.450Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:41:45.439Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:41:45.440Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:41:45.442Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:41:45.446Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:41:45.448Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:41:45.450Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:41:55.451Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:41:57.543Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:41:57.544Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:41:57.546Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:42:12.019Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:42:12.021Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:42:12.023Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:42:16.158Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:42:16.159Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:42:16.161Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:43:23.405Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:43:23.406Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:43:23.408Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:43:23.411Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:43:23.412Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:43:23.413Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:43:46.339Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:43:47.673Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:43:47.674Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:43:47.676Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:43:52.983Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:43:52.985Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:43:52.987Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:44:03.702Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:44:05.165Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:44:05.166Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:44:05.167Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:44:13.043Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:44:13.044Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:44:13.046Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:44:16.160Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:44:16.161Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:44:16.163Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:44:19.568Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:44:19.569Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:44:19.571Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:45:52.156Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:45:52.157Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:45:52.159Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:19.164Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:46:19.166Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:46:19.168Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:19.173Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:46:19.175Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:46:19.177Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:26.848Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:28.431Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:46:28.432Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:46:28.434Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:37.998Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:46:39.537Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:46:39.538Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:46:39.540Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:48:44.292Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:48:46.103Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:48:46.104Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:48:46.106Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:48:52.794Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:48:52.795Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:48:52.796Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:48:58.760Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:48:58.761Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:48:58.763Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:50:58.535Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:50:58.536Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:50:58.537Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:50:58.541Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:50:58.542Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:50:58.544Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:51:20.407Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:51:22.121Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:51:22.122Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:51:22.123Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:52:32.175Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:52:32.176Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:52:32.177Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:55:32.369Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:55:32.370Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:55:32.372Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:55:32.375Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:55:32.376Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:55:32.377Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:55:43.400Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:55:49.014Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:55:49.016Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:55:49.018Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:59:40.874Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:59:40.875Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:59:40.877Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:59:40.881Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:59:40.882Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:59:40.884Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:59:51.955Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T18:59:53.459Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T18:59:53.460Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T18:59:53.462Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:00:57.140Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:00:58.635Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:00:58.637Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:00:58.639Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:03:27.159Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:03:27.160Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:03:27.162Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:03:27.167Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:03:27.168Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:03:27.170Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:03:27.175Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:03:27.176Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:03:27.178Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:06:16.188Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:06:16.189Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:06:16.191Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:06:16.194Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:06:16.195Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:06:16.197Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:06:27.030Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:06:28.641Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:06:28.642Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:06:28.644Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:17:40.700Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:17:40.702Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:17:40.705Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:17:40.709Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:17:40.711Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:17:40.713Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:18:08.612Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:18:10.635Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:18:10.636Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:18:10.637Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:21:29.756Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:21:31.939Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:21:31.940Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:21:31.942Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:39:31.510Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:39:31.511Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:39:31.512Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:39:31.515Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:39:31.516Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:39:31.517Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:39:31.520Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:39:31.521Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:39:31.522Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:02.065Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:40:02.066Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:40:02.067Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:02.070Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:40:02.071Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:40:02.073Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:18.181Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:20.041Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:40:20.042Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:40:20.044Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:49.453Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:40:51.984Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:40:51.985Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:40:51.986Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:41:21.790Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:41:23.585Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:41:23.586Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:41:23.588Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:43:48.484Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:43:52.223Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:43:52.224Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:43:52.226Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:46:31.601Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:46:33.188Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:46:33.190Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:46:33.191Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:47:41.536Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:47:41.537Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:47:41.548Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:47:44.451Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:47:44.452Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:47:44.454Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:48:42.420Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:48:42.421Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:48:42.430Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:48:44.401Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:48:44.402Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:48:44.403Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.235Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.236Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.238Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.243Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.244Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.245Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.250Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.251Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.253Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.257Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.258Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.260Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.264Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.265Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.267Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.272Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.273Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.274Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.279Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.280Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.282Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.287Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.288Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.290Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.293Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.294Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.296Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.301Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.302Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.304Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:54:05.308Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:54:05.309Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:54:05.311Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:55:36.073Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:55:36.074Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:55:36.076Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:55:36.078Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:55:36.079Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:55:36.081Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:55:48.409Z","userId":"67f19f229bef531fc0f1e50c"}
+{"email":"mane@gmail.com.br","level":"debug","message":"Auth middleware: User authenticated successfully","timestamp":"2025-04-06T19:55:53.009Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Fetching workouts for user","timestamp":"2025-04-06T19:55:53.010Z","userId":"67f19f229bef531fc0f1e50c"}
+{"level":"debug","message":"Found 2 workouts for user","timestamp":"2025-04-06T19:55:53.012Z","userId":"67f19f229bef531fc0f1e50c"}
